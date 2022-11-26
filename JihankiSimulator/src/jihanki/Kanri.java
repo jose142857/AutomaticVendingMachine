@@ -7,7 +7,7 @@ import java.sql.Statement;
 // iloveyou
 public class Kanri {
 
-	String password = "123456";
+	String password = "123";
 
 	public void zaiko() throws SQLException {
 
