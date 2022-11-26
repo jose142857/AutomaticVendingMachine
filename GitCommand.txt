@@ -1,0 +1,4 @@
+check dia chi remote: git config --get remote.origin.url
+tao master danh dau la 1 repsitory: git init
+$ git remote add origin https://gitlab.com/thangtony/website_news.git^C
+i am ok and ilove you forever
